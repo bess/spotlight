@@ -38,9 +38,8 @@
   }
   .checkbox {
     width: 3%;
-    vertical-align: top;
+    vertical-align: middle;
     display: inline-block;
-    padding-top: 0;
   }
 }
 
@@ -65,9 +64,6 @@
 
   .publish-control {
     display: inline;
-    .checkbox {
-      padding-top: 0;
-    }
   }
   .page-links, .contact-links {
     text-align: right;
